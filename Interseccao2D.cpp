@@ -1,3 +1,4 @@
+//Matematica, Geometria
 double s,t;
 
 int inter(Ponto k, Ponto l, Ponto m, Ponto n){
@@ -12,3 +13,6 @@ int inter(Ponto k, Ponto l, Ponto m, Ponto n){
 
  return 1; // há intersecção
 }
+
+//Consegue fazer checagem se um poligono é convexo, verifica um lado com os pontos antes e depois
+//Consegue verificar se um ponto pertence ao poligono, verifica por quantos lados uma semireta saindo do ponto passa, se for par esta fora se for impar dentro, precisa checar se coincide com vertice separadamente
