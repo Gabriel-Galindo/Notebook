@@ -1,3 +1,4 @@
+//Matematica, Geometria
 int intersec3d(k, l, m, n, s, t)
 {
   double det;
