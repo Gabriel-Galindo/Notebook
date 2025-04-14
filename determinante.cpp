@@ -1,5 +1,6 @@
 //Matematica
 //Calcula determinante de uma matriz sem comprometer ela
+//O(n^3)
 
 double A[20][20],b[20],X[20];
 double det(int n){
